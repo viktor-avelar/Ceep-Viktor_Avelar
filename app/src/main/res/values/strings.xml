@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ceep</string>
+    <string name="muda_para_linear">Muda para Linear</string>
+    <string name="muda_para_grid">Muda para Grid</string>
+    <string name="ajuda">ajuda</string>
+    <string name="grid">muda_para_grid</string>
+    <string name="linear">muda_para_linear</string>
+    <string name="enviar_feedback">Enviar Feedback</string>
+    <string name="imagem_de_feedback">Imagem de Feedback</string>
+    <string name="deixe_o_seu_feedback">Deixe o seu feedback! :)</string>
+    <string name="envie_d_vidas_e_sugest_es_sobre_sua_experi_ncia_com_o_ceep_usaremos_as_informa_es_fornecidas_para_aprimorar_a_experi_ncia_da_app">Envie dúvidas e sugestões sobre sua experiência com o Ceep. Usaremos as informações fornecidas para aprimorar a experiência da App</string>
+    <string name="e_mail">E-mail</string>
+    <string name="escreva_seu_feedback">Escreva seu feedback</string>
+</resources>

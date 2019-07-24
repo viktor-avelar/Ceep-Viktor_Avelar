@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/enviar_feedback"
+        android:id="@+id/menu_enviar_feedback"
+        android:icon="@drawable/ic_envia_feedback"
+        app:showAsAction="always">
+    </item>
+
+</menu>
